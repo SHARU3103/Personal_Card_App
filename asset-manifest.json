@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Personal_Card_App_GT/static/css/main.37c0d9c4.css",
+    "main.js": "/Personal_Card_App_GT/static/js/main.a48ee4dc.js",
+    "static/js/453.039f9130.chunk.js": "/Personal_Card_App_GT/static/js/453.039f9130.chunk.js",
+    "index.html": "/Personal_Card_App_GT/index.html",
+    "main.37c0d9c4.css.map": "/Personal_Card_App_GT/static/css/main.37c0d9c4.css.map",
+    "main.a48ee4dc.js.map": "/Personal_Card_App_GT/static/js/main.a48ee4dc.js.map",
+    "453.039f9130.chunk.js.map": "/Personal_Card_App_GT/static/js/453.039f9130.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c0d9c4.css",
+    "static/js/main.a48ee4dc.js"
+  ]
+}
